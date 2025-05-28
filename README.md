@@ -37,6 +37,17 @@ Personal Expense Tracker is a simple, Python-based application that helps you lo
 
 
 ## 🧠 Tech Stack
+| Tool            | Purpose                          |
+|-----------------|----------------------------------|
+| Python 3        | Core programming language        |
+| Django          | Web framework (MVC architecture) |
+| HTML/CSS        | Frontend structure and styling   |
+| JavaScript      | Frontend interactivity           |
+| SQLite3         | Default relational database used |
+| Django Templates| Dynamic HTML rendering           |
+| Pipenv          | Dependency management            |
+| Pytest          | Testing framework                |
+
 
 
 
