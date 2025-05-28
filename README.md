@@ -4,18 +4,16 @@ A simple and intuitive **Personal Expense Tracker** built with **Python**, using
 ## Author: Rishika Verma
 
 ### Overview
-Personal Expense Tracker is a simple, Python-based application that helps you log and categorize your daily expenses. Built using Object-Oriented Programming and SQLite, it allows you to track spending, view summaries, and export your data — all through a clean, modular design. Ideal for students and developers looking to apply OOP and DBMS skills in a real-world project.
-personal-expense-tracker/
-├── main.py # Entry point
-├── db.py # SQLite setup and queries
-├── models/
-│ ├── expense.py # Expense class
-│ └── category.py # Category class
-├── reports.py # Reporting and summaries
-├── ui.py # Command-line or GUI interface
-├── utils.py # Helper functions
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
+Personal Expense Tracker is a simple, Python-based application that helps you log and categorize your daily expenses. Built using Object-Oriented Programming and SQLite, it allows you to track spending, view summaries, and export your data — all through a clean, modular design. Ideal for students and developers looking to apply OOP and DBMS skills in a real-world project
+
+1. `main.py`
+2. `db.py`
+3. `expense.py`
+4. `category.py`
+5. `reports.py`
+6. `ui.py`
+7. `utils.py`
+8. `requirement.txt`
 
 ## 🧠 Tech Stack
 
