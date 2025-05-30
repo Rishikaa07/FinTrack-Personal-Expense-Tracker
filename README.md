@@ -30,3 +30,8 @@ Personal Expense Tracker is a simple, Python-based application that helps you lo
 
 
 ---
+### 🔗 Connect
+
+GitHub: Rishikaa007
+
+Email: vermarishika709@gmail.com
