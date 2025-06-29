@@ -25,7 +25,7 @@ Personal Expense Tracker is a simple, Python-based application that helps you to
 | Django Templates| Dynamic HTML rendering           |
 | Pipenv          | Dependency management            |
 | Pytest          | Testing framework                |
-
+ 
 
 
 
