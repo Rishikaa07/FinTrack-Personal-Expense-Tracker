@@ -4,7 +4,7 @@
             "sha256": "7e82d693a6418f814b0cdcc8afd324d43697ed79081318e6dabb9838e717f7f6"
         },
         "pipfile-spec": 6,
-        "requires": {
+        "requires": { 
             "python_version": "3.6" 
         },
         "sources": [
