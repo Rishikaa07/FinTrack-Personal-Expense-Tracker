@@ -1,6 +1,6 @@
 # FinTrack-Personal-Expense-Tracker
 A simple and intuitive **Personal Expense Tracker** built with **Python**, using **Object-Oriented Programming (OOP)** and **SQLite** for persistent data storage. This application helps users manage their everyday expenses, categorize them, and analyze their spending patterns along with summaries and visualizations.
- 
+  
 ## Author: Rishika Verma 
    
 ### Overview  
