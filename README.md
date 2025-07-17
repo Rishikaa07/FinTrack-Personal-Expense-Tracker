@@ -11,7 +11,7 @@ Personal Expense Tracker is a simple, Python-based application that helps you to
 4. `ReadME.md`  
 5. `manage.py`  
 6. `accounts/`  
-7. `docs/`     
+7. `docs/`      
 8. `expense_manager/`  
 
 ## 🧠 Tech Stack
