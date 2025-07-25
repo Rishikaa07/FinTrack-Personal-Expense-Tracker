@@ -7,7 +7,7 @@
         "requires": { 
             "python_version": "3.6"   
         }, 
-        "sources": [
+        "sources": [ 
             {
                 "name": "pypi",
                 "url": "https://pypi.org/simple",
